@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your AWS resource monitoring script:
-
----
 
 # AWS Resource Usage Monitoring Script
 
