@@ -1,7 +1,5 @@
 
 # AWS Resource Usage Monitoring Script
-
-
 ## Features
 
 - Lists all **S3 Buckets** in your AWS account.
