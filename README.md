@@ -87,7 +87,7 @@ The script appends data to the file specified in `OUTPUT_FILE`.
 
 ## Notes
 
-- The script is in its **draft version** as of `16-December-2024`.
+- The script is in its **draft version** as of `16-November-2024`.
 - Ensure you have sufficient permissions for the AWS resources being queried.
 - Customize the `OUTPUT_FILE` path to suit your environment.
 
@@ -96,6 +96,6 @@ The script appends data to the file specified in `OUTPUT_FILE`.
 ## Author
 
 - **Name**: Almoiz
-- **Date**: 16-December-2024
+- **Date**: 16-November-2024
 
 ---
