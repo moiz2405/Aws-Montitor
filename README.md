@@ -1,13 +1,6 @@
 
 # AWS Resource Usage Monitoring Script
 
-## Description
-
-This script, authored by **Almoiz**, is designed to monitor and report AWS resource usage. It gathers information about various AWS services, including S3 buckets, EC2 instances, Lambda functions, and IAM users, and saves the output to a specified file.
-
-The script utilizes AWS CLI commands and is intended to be run on a system with appropriate AWS credentials configured.
-
----
 
 ## Features
 
